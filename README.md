@@ -32,7 +32,7 @@ In this deliverable, I used my weather data skills to plan future vacations. Als
 
 The code needed to import the required libraries and the CSV file loaded with the weather and coordinates data for each city created in Part 1 was used to get started.
 
-My main tasks was to use the Geoapify API and the geoViews Python library and employ my Python skills to create map visualizations.
+## My main tasks was to use the Geoapify API and the geoViews Python library and employ my Python skills to create map visualizations.
 
 - I first created a map that displayed a point for every city in the city_data_df DataFrame. The size of the point is the humidity in each city.
 - Then, I narrowed down the city_data_df DataFrame to find my ideal weather condition using the following:
